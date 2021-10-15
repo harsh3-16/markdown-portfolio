@@ -1,2 +1,2 @@
 <h1>Harsh Arora</h1>
-Adding a header
+<h3>Adding a header</h3>
